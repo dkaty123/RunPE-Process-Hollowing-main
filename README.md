@@ -12,9 +12,4 @@ This C# program is designed to run a specific exe file in another file's memory 
 
 ![shot](https://github.com/unknown144p/runmemory/assets/93508554/f28e4aeb-b8ec-426e-a9e2-998c13af16ad)
 
-**Note: The project is Open Source and you can develop it as you wish.**
-
-## Warning
-
-This code is for educational purposes and should not be used for illegal activities.
 
