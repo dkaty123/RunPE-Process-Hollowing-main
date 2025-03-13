@@ -18,6 +18,3 @@ This C# program is designed to run a specific exe file in another file's memory 
 
 This code is for educational purposes and should not be used for illegal activities.
 
-## License
-
-This project is licensed under the MIT license. See [LICENSE](LICENSE) for more information.
